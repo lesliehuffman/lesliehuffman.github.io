@@ -1,0 +1,32 @@
+# Leslie Huffman's Portfolio
+
+This is my home page! My name is Leslie Huffman and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is computer_science.
+
+## Computer Science Projects
+
+My GitHub page is http://github.com/lesliehuffman.
+
+### Favorite Labs From CPSC 120
+
+* Lab 2
+
+    Lab 2, part 2 was a favorite because it included a fun element of
+    getting to see the random input be entered into the code. This lab
+    taught us the basics of user input and how we can print it out to
+    form new phrases. This code also introduced us to the proper formatting
+    used to print out our messages.
+
+* Lab 6
+    
+    Lab 6, part 2 was another favorite because it dealt with using
+    arguments and determining if the program can run with the correct
+    amount of arguments. This also introduced the game of blackjack which
+    was fun to work with. Using these card rules and values, we were able to 
+    create use bool and other variables to determine to outcome of the games.
+
+* Lab 11
+
+    Lab 11, part 1 was also a favorite because it introduced the push back and get
+    line commands and used them to read files in order to get the proper information
+    about the pizzas. On top of these variables, we also used vectors in order to 
+    gather the correct data on price and calories.
